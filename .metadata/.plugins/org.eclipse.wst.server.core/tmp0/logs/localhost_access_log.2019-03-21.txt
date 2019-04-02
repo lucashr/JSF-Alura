@@ -1,0 +1,10 @@
+127.0.0.1 - - [21/Mar/2019:13:10:22 -0300] "GET / HTTP/1.1" 404 1086
+0:0:0:0:0:0:0:1 - - [21/Mar/2019:13:10:56 -0300] "GET /treinamentos/publico/testechart.xhtml HTTP/1.1" 404 1131
+127.0.0.1 - - [21/Mar/2019:13:11:14 -0300] "GET / HTTP/1.1" 404 1086
+0:0:0:0:0:0:0:1 - - [21/Mar/2019:15:36:15 -0300] "GET /livraria/livro.xhtml HTTP/1.1" 200 11172
+0:0:0:0:0:0:0:1 - - [21/Mar/2019:15:36:15 -0300] "GET /livraria/javax.faces.resource/jsf.js.xhtml;jsessionid=8A836769A955E88A66D6ABBAC02E64CA?ln=javax.faces HTTP/1.1" 200 32188
+0:0:0:0:0:0:0:1 - - [21/Mar/2019:15:36:15 -0300] "GET /livraria/javax.faces.resource/logoxbox.png.xhtml;jsessionid=8A836769A955E88A66D6ABBAC02E64CA?ln=img HTTP/1.1" 200 3802
+0:0:0:0:0:0:0:1 - - [21/Mar/2019:15:36:53 -0300] "GET /livraria/livro.xhtml HTTP/1.1" 200 11174
+0:0:0:0:0:0:0:1 - - [21/Mar/2019:15:36:54 -0300] "GET /livraria/javax.faces.resource/jsf.js.xhtml;jsessionid=7D33CD3B7E6818486743BDA4B6B7370A?ln=javax.faces HTTP/1.1" 200 32188
+0:0:0:0:0:0:0:1 - - [21/Mar/2019:15:36:54 -0300] "GET /livraria/javax.faces.resource/logoxbox.png.xhtml;jsessionid=7D33CD3B7E6818486743BDA4B6B7370A?ln=img HTTP/1.1" 200 3802
+0:0:0:0:0:0:0:1 - - [21/Mar/2019:15:36:54 -0300] "GET /favicon.ico HTTP/1.1" 404 1097

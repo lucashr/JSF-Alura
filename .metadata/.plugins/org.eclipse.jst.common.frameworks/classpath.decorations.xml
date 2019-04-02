@@ -1,0 +1,7 @@
+<classpath>
+  <container id="livraria!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="C:/Users/lucas.rafael/Downloads/livraria-orig/WebContent/WEB-INF/lib/mysql-connector-java-5.1.22-bin.jar">
+      <source-attachment-path>C:/Users/lucas.rafael/Downloads/livraria-orig</source-attachment-path>
+    </entry>
+  </container>
+</classpath>

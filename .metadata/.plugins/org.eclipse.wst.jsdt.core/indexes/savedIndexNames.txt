@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\lucas.rafael\Desktop\Curso JSF - Alura\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2449498434.index
+4089880304.index
+2632245570.index
+4010404357.index
+1259525521.index
+3091044945.index
